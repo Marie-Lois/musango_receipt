@@ -1,0 +1,1 @@
+print("Musango Receipt")
